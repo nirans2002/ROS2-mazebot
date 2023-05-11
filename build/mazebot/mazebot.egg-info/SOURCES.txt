@@ -8,6 +8,7 @@ setup.py
 ../../build/mazebot/mazebot.egg-info/requires.txt
 ../../build/mazebot/mazebot.egg-info/top_level.txt
 ../../build/mazebot/mazebot.egg-info/zip-safe
+launch/gazebo.launch.py
 launch/rviz.launch.py
 mazebot/__init__.py
 mazebot/publisher_member_function.py

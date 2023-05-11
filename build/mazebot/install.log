@@ -9,6 +9,7 @@
 /home/niran/mazebot/install/mazebot/share/mazebot/urdf/mazebot.urdf
 /home/niran/mazebot/install/mazebot/share/mazebot/meshes/maze_bot.stl
 /home/niran/mazebot/install/mazebot/share/mazebot/meshes/wheel.stl
+/home/niran/mazebot/install/mazebot/share/mazebot/launch/gazebo.launch.py
 /home/niran/mazebot/install/mazebot/share/mazebot/launch/rviz.launch.py
 /home/niran/mazebot/install/mazebot/lib/python3.10/site-packages/mazebot-0.0.0-py3.10.egg-info/zip-safe
 /home/niran/mazebot/install/mazebot/lib/python3.10/site-packages/mazebot-0.0.0-py3.10.egg-info/PKG-INFO
