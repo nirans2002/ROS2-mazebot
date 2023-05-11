@@ -25,7 +25,8 @@ setup(
     entry_points={
         'console_scripts': [
              'talker = mazebot.publisher_member_function:main',
-             'listener = py_pubsub.subscriber_member_function:main',
+             'listener = mazebot.subscriber_member_function:main',
+             'drive_maze_bot = mazebot.driving_node:main',
         ],
     },
 )

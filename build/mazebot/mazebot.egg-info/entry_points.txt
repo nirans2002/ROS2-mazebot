@@ -1,4 +1,5 @@
 [console_scripts]
-listener = py_pubsub.subscriber_member_function:main
+drive_maze_bot = mazebot.driving_node:main
+listener = mazebot.subscriber_member_function:main
 talker = mazebot.publisher_member_function:main
 
