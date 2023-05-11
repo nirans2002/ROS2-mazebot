@@ -1,0 +1,46 @@
+running egg_info
+creating ../../build/mazebot/mazebot.egg-info
+writing ../../build/mazebot/mazebot.egg-info/PKG-INFO
+writing dependency_links to ../../build/mazebot/mazebot.egg-info/dependency_links.txt
+writing entry points to ../../build/mazebot/mazebot.egg-info/entry_points.txt
+writing requirements to ../../build/mazebot/mazebot.egg-info/requires.txt
+writing top-level names to ../../build/mazebot/mazebot.egg-info/top_level.txt
+writing manifest file '../../build/mazebot/mazebot.egg-info/SOURCES.txt'
+reading manifest file '../../build/mazebot/mazebot.egg-info/SOURCES.txt'
+writing manifest file '../../build/mazebot/mazebot.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/niran/mazebot/build/mazebot/build
+creating /home/niran/mazebot/build/mazebot/build/lib
+creating /home/niran/mazebot/build/mazebot/build/lib/mazebot
+copying mazebot/__init__.py -> /home/niran/mazebot/build/mazebot/build/lib/mazebot
+copying mazebot/publisher_member_function.py -> /home/niran/mazebot/build/mazebot/build/lib/mazebot
+copying mazebot/subscriber_member_function.py -> /home/niran/mazebot/build/mazebot/build/lib/mazebot
+running install
+running install_lib
+creating /home/niran/mazebot/install/mazebot/lib/python3.10/site-packages/mazebot
+copying /home/niran/mazebot/build/mazebot/build/lib/mazebot/__init__.py -> /home/niran/mazebot/install/mazebot/lib/python3.10/site-packages/mazebot
+copying /home/niran/mazebot/build/mazebot/build/lib/mazebot/publisher_member_function.py -> /home/niran/mazebot/install/mazebot/lib/python3.10/site-packages/mazebot
+copying /home/niran/mazebot/build/mazebot/build/lib/mazebot/subscriber_member_function.py -> /home/niran/mazebot/install/mazebot/lib/python3.10/site-packages/mazebot
+byte-compiling /home/niran/mazebot/install/mazebot/lib/python3.10/site-packages/mazebot/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/niran/mazebot/install/mazebot/lib/python3.10/site-packages/mazebot/publisher_member_function.py to publisher_member_function.cpython-310.pyc
+byte-compiling /home/niran/mazebot/install/mazebot/lib/python3.10/site-packages/mazebot/subscriber_member_function.py to subscriber_member_function.cpython-310.pyc
+running install_data
+creating /home/niran/mazebot/install/mazebot/share/ament_index
+creating /home/niran/mazebot/install/mazebot/share/ament_index/resource_index
+creating /home/niran/mazebot/install/mazebot/share/ament_index/resource_index/packages
+copying resource/mazebot -> /home/niran/mazebot/install/mazebot/share/ament_index/resource_index/packages
+copying package.xml -> /home/niran/mazebot/install/mazebot/share/mazebot
+creating /home/niran/mazebot/install/mazebot/share/mazebot/urdf
+copying urdf/mazebot.urdf -> /home/niran/mazebot/install/mazebot/share/mazebot/urdf
+creating /home/niran/mazebot/install/mazebot/share/mazebot/meshes
+copying meshes/maze_bot.stl -> /home/niran/mazebot/install/mazebot/share/mazebot/meshes
+copying meshes/wheel.stl -> /home/niran/mazebot/install/mazebot/share/mazebot/meshes
+creating /home/niran/mazebot/install/mazebot/share/mazebot/launch
+copying launch/rviz.launch.py -> /home/niran/mazebot/install/mazebot/share/mazebot/launch
+running install_egg_info
+Copying ../../build/mazebot/mazebot.egg-info to /home/niran/mazebot/install/mazebot/lib/python3.10/site-packages/mazebot-0.0.0-py3.10.egg-info
+running install_scripts
+Installing listener script to /home/niran/mazebot/install/mazebot/lib/mazebot
+Installing talker script to /home/niran/mazebot/install/mazebot/lib/mazebot
+writing list of installed files to '/home/niran/mazebot/build/mazebot/install.log'
