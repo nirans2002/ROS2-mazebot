@@ -8,10 +8,14 @@ setup.py
 ../build/mazebot/mazebot.egg-info/requires.txt
 ../build/mazebot/mazebot.egg-info/top_level.txt
 ../build/mazebot/mazebot.egg-info/zip-safe
+launch/rviz.launch.py
 mazebot/__init__.py
 mazebot/publisher_member_function.py
 mazebot/subscriber_member_function.py
+meshes/maze_bot.stl
+meshes/wheel.stl
 resource/mazebot
 test/test_copyright.py
 test/test_flake8.py
 test/test_pep257.py
+urdf/mazebot.urdf

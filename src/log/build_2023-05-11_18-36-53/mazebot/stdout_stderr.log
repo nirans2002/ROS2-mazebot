@@ -1,0 +1,29 @@
+running egg_info
+writing ../build/mazebot/mazebot.egg-info/PKG-INFO
+writing dependency_links to ../build/mazebot/mazebot.egg-info/dependency_links.txt
+writing entry points to ../build/mazebot/mazebot.egg-info/entry_points.txt
+writing requirements to ../build/mazebot/mazebot.egg-info/requires.txt
+writing top-level names to ../build/mazebot/mazebot.egg-info/top_level.txt
+reading manifest file '../build/mazebot/mazebot.egg-info/SOURCES.txt'
+writing manifest file '../build/mazebot/mazebot.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+/usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+running install_lib
+running install_data
+creating /home/niran/mazebot/src/install/mazebot/share/mazebot/urdf
+copying urdf/mazebot.urdf -> /home/niran/mazebot/src/install/mazebot/share/mazebot/urdf
+creating /home/niran/mazebot/src/install/mazebot/share/mazebot/meshes
+copying meshes/maze_bot.stl -> /home/niran/mazebot/src/install/mazebot/share/mazebot/meshes
+copying meshes/wheel.stl -> /home/niran/mazebot/src/install/mazebot/share/mazebot/meshes
+creating /home/niran/mazebot/src/install/mazebot/share/mazebot/launch
+copying launch/rviz.launch.py -> /home/niran/mazebot/src/install/mazebot/share/mazebot/launch
+running install_egg_info
+removing '/home/niran/mazebot/src/install/mazebot/lib/python3.10/site-packages/mazebot-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../build/mazebot/mazebot.egg-info to /home/niran/mazebot/src/install/mazebot/lib/python3.10/site-packages/mazebot-0.0.0-py3.10.egg-info
+running install_scripts
+Installing listener script to /home/niran/mazebot/src/install/mazebot/lib/mazebot
+Installing talker script to /home/niran/mazebot/src/install/mazebot/lib/mazebot
+writing list of installed files to '/home/niran/mazebot/src/build/mazebot/install.log'

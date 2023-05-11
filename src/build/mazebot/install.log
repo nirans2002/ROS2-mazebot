@@ -6,6 +6,10 @@
 /home/niran/mazebot/src/install/mazebot/lib/python3.10/site-packages/mazebot/__pycache__/subscriber_member_function.cpython-310.pyc
 /home/niran/mazebot/src/install/mazebot/share/ament_index/resource_index/packages/mazebot
 /home/niran/mazebot/src/install/mazebot/share/mazebot/package.xml
+/home/niran/mazebot/src/install/mazebot/share/mazebot/urdf/mazebot.urdf
+/home/niran/mazebot/src/install/mazebot/share/mazebot/meshes/maze_bot.stl
+/home/niran/mazebot/src/install/mazebot/share/mazebot/meshes/wheel.stl
+/home/niran/mazebot/src/install/mazebot/share/mazebot/launch/rviz.launch.py
 /home/niran/mazebot/src/install/mazebot/lib/python3.10/site-packages/mazebot-0.0.0-py3.10.egg-info/zip-safe
 /home/niran/mazebot/src/install/mazebot/lib/python3.10/site-packages/mazebot-0.0.0-py3.10.egg-info/PKG-INFO
 /home/niran/mazebot/src/install/mazebot/lib/python3.10/site-packages/mazebot-0.0.0-py3.10.egg-info/requires.txt
