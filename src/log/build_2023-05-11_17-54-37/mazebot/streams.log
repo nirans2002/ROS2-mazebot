@@ -1,0 +1,43 @@
+[0.558s] Invoking command in '/home/niran/mazebot/src/mazebot': PYTHONPATH=/home/niran/mazebot/src/build/mazebot/prefix_override:/home/niran/mazebot/src/install/mazebot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/mazebot build --build-base /home/niran/mazebot/src/build/mazebot/build install --record /home/niran/mazebot/src/build/mazebot/install.log --single-version-externally-managed
+[0.731s] running egg_info
+[0.732s] creating ../build/mazebot/mazebot.egg-info
+[0.732s] writing ../build/mazebot/mazebot.egg-info/PKG-INFO
+[0.732s] writing dependency_links to ../build/mazebot/mazebot.egg-info/dependency_links.txt
+[0.732s] writing entry points to ../build/mazebot/mazebot.egg-info/entry_points.txt
+[0.732s] writing requirements to ../build/mazebot/mazebot.egg-info/requires.txt
+[0.733s] writing top-level names to ../build/mazebot/mazebot.egg-info/top_level.txt
+[0.733s] writing manifest file '../build/mazebot/mazebot.egg-info/SOURCES.txt'
+[0.734s] reading manifest file '../build/mazebot/mazebot.egg-info/SOURCES.txt'
+[0.734s] writing manifest file '../build/mazebot/mazebot.egg-info/SOURCES.txt'
+[0.734s] running build
+[0.734s] running build_py
+[0.735s] creating /home/niran/mazebot/src/build/mazebot/build
+[0.735s] creating /home/niran/mazebot/src/build/mazebot/build/lib
+[0.735s] creating /home/niran/mazebot/src/build/mazebot/build/lib/mazebot
+[0.735s] copying mazebot/__init__.py -> /home/niran/mazebot/src/build/mazebot/build/lib/mazebot
+[0.735s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.735s]   warnings.warn(
+[0.735s] copying mazebot/publisher_member_function.py -> /home/niran/mazebot/src/build/mazebot/build/lib/mazebot
+[0.736s] copying mazebot/subscriber_member_function.py -> /home/niran/mazebot/src/build/mazebot/build/lib/mazebot
+[0.736s] running install
+[0.736s] running install_lib
+[0.736s] creating /home/niran/mazebot/src/install/mazebot/lib/python3.10/site-packages/mazebot
+[0.736s] copying /home/niran/mazebot/src/build/mazebot/build/lib/mazebot/__init__.py -> /home/niran/mazebot/src/install/mazebot/lib/python3.10/site-packages/mazebot
+[0.736s] copying /home/niran/mazebot/src/build/mazebot/build/lib/mazebot/publisher_member_function.py -> /home/niran/mazebot/src/install/mazebot/lib/python3.10/site-packages/mazebot
+[0.736s] copying /home/niran/mazebot/src/build/mazebot/build/lib/mazebot/subscriber_member_function.py -> /home/niran/mazebot/src/install/mazebot/lib/python3.10/site-packages/mazebot
+[0.736s] byte-compiling /home/niran/mazebot/src/install/mazebot/lib/python3.10/site-packages/mazebot/__init__.py to __init__.cpython-310.pyc
+[0.737s] byte-compiling /home/niran/mazebot/src/install/mazebot/lib/python3.10/site-packages/mazebot/publisher_member_function.py to publisher_member_function.cpython-310.pyc
+[0.737s] byte-compiling /home/niran/mazebot/src/install/mazebot/lib/python3.10/site-packages/mazebot/subscriber_member_function.py to subscriber_member_function.cpython-310.pyc
+[0.737s] running install_data
+[0.737s] creating /home/niran/mazebot/src/install/mazebot/share/ament_index
+[0.738s] creating /home/niran/mazebot/src/install/mazebot/share/ament_index/resource_index
+[0.738s] creating /home/niran/mazebot/src/install/mazebot/share/ament_index/resource_index/packages
+[0.738s] copying resource/mazebot -> /home/niran/mazebot/src/install/mazebot/share/ament_index/resource_index/packages
+[0.738s] copying package.xml -> /home/niran/mazebot/src/install/mazebot/share/mazebot
+[0.738s] running install_egg_info
+[0.739s] Copying ../build/mazebot/mazebot.egg-info to /home/niran/mazebot/src/install/mazebot/lib/python3.10/site-packages/mazebot-0.0.0-py3.10.egg-info
+[0.739s] running install_scripts
+[0.755s] Installing listener script to /home/niran/mazebot/src/install/mazebot/lib/mazebot
+[0.755s] Installing talker script to /home/niran/mazebot/src/install/mazebot/lib/mazebot
+[0.755s] writing list of installed files to '/home/niran/mazebot/src/build/mazebot/install.log'
+[0.784s] Invoked command in '/home/niran/mazebot/src/mazebot' returned '0': PYTHONPATH=/home/niran/mazebot/src/build/mazebot/prefix_override:/home/niran/mazebot/src/install/mazebot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/mazebot build --build-base /home/niran/mazebot/src/build/mazebot/build install --record /home/niran/mazebot/src/build/mazebot/install.log --single-version-externally-managed
