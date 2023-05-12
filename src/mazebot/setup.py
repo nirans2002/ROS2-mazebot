@@ -27,6 +27,7 @@ setup(
              'talker = mazebot.publisher_member_function:main',
              'listener = mazebot.subscriber_member_function:main',
              'drive_maze_bot = mazebot.driving_node:main',
+             'go_to_goal = mazebot.go_to_goal:main',
         ],
     },
 )
