@@ -30,6 +30,7 @@ setup(
              'drive_maze_bot = mazebot.driving_node:main',
              'go_to_goal = mazebot.go_to_goal:main',
              'video_saver_node= mazebot.video_saver:main',
+             'maze_solver= mazebot.maze_solver:main',
         ],
     },
 )
