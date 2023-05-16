@@ -149,21 +149,19 @@
     <child link="caster"/>
   </joint>
 
-  <!-- laser -->
+    <!-- laser -->
   <link name="laser">
     <inertial>
             <mass value="1" />
             <inertia ixx="0.01" ixy="0.0" ixz="0" 
             iyy="0.01" iyz="0" izz="0.01" />
     </inertial>
-
     <visual>
     
       <geometry>
         <cylinder radius="0.05" length="0.05"/> 
        </geometry>
     </visual>
-
     <collision>
       <origin/>
       <geometry>
@@ -171,15 +169,12 @@
       </geometry>
     </collision>
   </link>
-
   <joint name="laser_joint" type="fixed">
-    <origin xyz="-0.32 0.0 0.08" rpy="0.0 0.0 0.0"/>
+    <origin xyz="-0.32 0.0 0.08" rpy="0.0 0.0 3.14"/>
     <axis xyz="0 0 1" />
     <parent link="base_footprint"/>
     <child link="laser"/>
   </joint>
-
-
   <!-- camera -->
   <link name="camera_link">
 
